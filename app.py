@@ -1,8 +1,8 @@
-✔ st.write() – показва текст
-✔ st.text_input() – текстов отговор
-✔ st.number_input() – число
+✔ st.write() 
+✔ st.text_input() 
+✔ st.number_input() 
 ✔ if / else – проверка
-✔ st.button() – действие
+✔ st.button() 
 Пример – въпрос и отговор
 import streamlit as st
 st.write("Как се казваш?")
